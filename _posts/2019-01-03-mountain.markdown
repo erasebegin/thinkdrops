@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "mountain"
+date:   2019-01-03
+preview: https://i.ibb.co/6Wc0pgh/mountain-scene.png
+---
+
+![Picture 1](https://i.ibb.co/S3Dw1RT/mountain-scene.png)
+

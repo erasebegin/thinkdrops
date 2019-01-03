@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thinkdrops</title>
+    <description>illustration, psychedelic, funny, illustrator, perspective, visual</description>
+    <link>http://localhost:4000/thinkdrops/</link>
+    <atom:link href="http://localhost:4000/thinkdrops/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Jan 2019 12:21:11 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Jan 2019 12:21:11 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>yoga</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/kSg0nN9/Sketch013.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;namaskar&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/03/yoga/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/yoga/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>mountain</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/S3Dw1RT/mountain-scene.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/03/mountain/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/mountain/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>christmas</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/VL8JyF4/christmas.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;one person’s merry is another person’s shit sandwich&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/03/christmas/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/christmas/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>all things are good</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/fDMpNJ4/all-things-are-good-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
+&lt;img src=&quot;https://i.ibb.co/vxb0QRq/all-things-are-good-2.jpg&quot; alt=&quot;Picture 2&quot; /&gt;
+&lt;img src=&quot;https://i.ibb.co/HKpjCYN/all-things-are-good-3.jpg&quot; alt=&quot;Picture 3&quot; /&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/03/all-things-are-good/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/all-things-are-good/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>cloud boy</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/YdnZGQy/cloud-boy.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;cloud boy 1&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/WfjvLnG/cloud-boy-2.png&quot; alt=&quot;Picture 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;cloud boy 2&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/02/cloud-boy/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/02/cloud-boy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>alien sushi</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/tZBn0N1/sushi.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;aliens like sushi too&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/02/alien-sushi/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/02/alien-sushi/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

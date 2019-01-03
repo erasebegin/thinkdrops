@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "cloud boy"
+date:   2019-01-02 
+preview: https://i.ibb.co/Lgj5fRJ/cloud-boy.png
+---
+
+![Picture 1](https://i.ibb.co/YdnZGQy/cloud-boy.png)
+
+cloud boy 1
+
+![Picture 2](https://i.ibb.co/WfjvLnG/cloud-boy-2.png)
+
+cloud boy 2

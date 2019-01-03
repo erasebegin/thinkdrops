@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "yoga"
+date:   2019-01-03 
+preview: https://i.ibb.co/FDbJvR0/Sketch013.jpg
+---
+
+![Picture 1](https://i.ibb.co/kSg0nN9/Sketch013.jpg)
+
+namaskar
