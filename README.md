@@ -1,5 +1,9 @@
-# urban-theme
+# ThinkDrops
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+### Storage and display space for work
 
-Live-Demo: http://narkotyk.net/
+
+![water drop](https://static.pexels.com/photos/40784/drops-of-water-water-nature-liquid-40784.jpeg)
+
+made using the jekyll urban-theme:
+http://jekyllthemes.org/themes/urban/
