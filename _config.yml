@@ -1,7 +1,7 @@
 # Site settings
 title: thinkdrops
 email: haupt_chris@yahoo.com
-description: illustration, psychedelic, funny, illustrator, perspective, visual
+description: a place to put stuff, that's all
 baseurl: "/thinkdrops" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  erasebegin
