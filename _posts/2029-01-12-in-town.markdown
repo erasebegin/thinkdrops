@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "city tour"
+date:   2019-01-12 
+preview: https://i.ibb.co/Nxtkkj7/in-town-stamp-card-4x.png
+---
+
+![Picture 1](https://i.ibb.co/hsLnnWC/in-town-stamp-card-4x.png)
+
