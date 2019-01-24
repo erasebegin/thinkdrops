@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "bedroom"
+date:   2019-01-24 
+preview: https://i.ibb.co/ZmScnXC/bedroom.png
+---
+
+![bedroom](https://i.ibb.co/SrcVhyp/bedroom.png)
