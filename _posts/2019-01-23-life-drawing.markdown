@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "life drawing"
-date:   2019-01-13 
+date:   2019-01-23 
 preview: https://i.ibb.co/ccqfDRs/red-flower.png
 ---
 
