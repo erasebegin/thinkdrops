@@ -2,90 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thinkdrops</title>
-    <description>illustration, psychedelic, funny, illustrator, perspective, visual</description>
+    <description>a place to put stuff, that's all</description>
     <link>http://localhost:4000/thinkdrops/</link>
     <atom:link href="http://localhost:4000/thinkdrops/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Jan 2019 12:21:11 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Jan 2019 12:21:11 +0800</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 15:35:44 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 15:35:44 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>yoga</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/kSg0nN9/Sketch013.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;namaskar&lt;/p&gt;
+        <title>绿流</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/3krWDp4/image.png&quot; alt=&quot;绿流&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/03/yoga/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/yoga/</guid>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/02/01/%E7%BB%BF%E6%B5%81/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/01/%E7%BB%BF%E6%B5%81/</guid>
         
         
       </item>
     
       <item>
-        <title>mountain</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/S3Dw1RT/mountain-scene.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
+        <title>飘</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/ckdgTH1/piao-4x.png&quot; alt=&quot;飘&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/03/mountain/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/mountain/</guid>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/02/01/piao/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/01/piao/</guid>
         
         
       </item>
     
       <item>
-        <title>christmas</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/VL8JyF4/christmas.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;one person’s merry is another person’s shit sandwich&lt;/p&gt;
+        <title>paper bird</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/L6WyD77/paper-bird.png&quot; alt=&quot;paper bird&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/03/christmas/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/christmas/</guid>
+        <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/25/paper-bird/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/25/paper-bird/</guid>
         
         
       </item>
     
       <item>
-        <title>all things are good</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/fDMpNJ4/all-things-are-good-1.jpg&quot; alt=&quot;Picture 1&quot; /&gt;
-&lt;img src=&quot;https://i.ibb.co/vxb0QRq/all-things-are-good-2.jpg&quot; alt=&quot;Picture 2&quot; /&gt;
-&lt;img src=&quot;https://i.ibb.co/HKpjCYN/all-things-are-good-3.jpg&quot; alt=&quot;Picture 3&quot; /&gt;.&lt;/p&gt;
+        <title>bedroom</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/SrcVhyp/bedroom.png&quot; alt=&quot;bedroom&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/03/all-things-are-good/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/03/all-things-are-good/</guid>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/24/bedroom/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/24/bedroom/</guid>
         
         
       </item>
     
       <item>
-        <title>cloud boy</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/YdnZGQy/cloud-boy.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;cloud boy 1&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/WfjvLnG/cloud-boy-2.png&quot; alt=&quot;Picture 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;cloud boy 2&lt;/p&gt;
+        <title>life drawing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/tMRj8n1/red-flower.png&quot; alt=&quot;red flower&quot; /&gt;
+&lt;img src=&quot;https://i.ibb.co/BcPBdHt/dragon-fruit.png&quot; alt=&quot;dragon fruit&quot; /&gt;
+&lt;img src=&quot;https://i.ibb.co/SNGb8rK/flowers5.png&quot; alt=&quot;yellow flowers&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/02/cloud-boy/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/02/cloud-boy/</guid>
+        <pubDate>Wed, 23 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/23/life-drawing/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/23/life-drawing/</guid>
         
         
       </item>
     
       <item>
-        <title>alien sushi</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/tZBn0N1/sushi.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+        <title>ice-creams</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Tcs5LNL/ice-creams.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;aliens like sushi too&lt;/p&gt;
 </description>
-        <pubDate>Wed, 02 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/02/alien-sushi/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/02/alien-sushi/</guid>
+        <pubDate>Sun, 13 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/13/ice-creams/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/13/ice-creams/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>kitchen</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/GJtvzjK/kitchen-4x.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/12/kitchen/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/kitchen/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>city tour</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/hsLnnWC/in-town-stamp-card-4x.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/12/in-town/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/in-town/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>flowers</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/xGnsQ0P/flowers3.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/K2HTZhC/flowers4.png&quot; alt=&quot;Picture 2&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/12/flowers/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/flowers/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>3 girls</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/CMxtqcr/3-girls-01-01.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/01/12/3girls/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/3girls/</guid>
         
         
       </item>
