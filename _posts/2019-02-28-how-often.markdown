@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "How often"
+date:   2019-02-28 
+preview: http://i811.photobucket.com/albums/zz39/EraseBegin/clockface.gif
+---
+
+![Picture 1](URL)
+
+This is Sarah. She is tall and has blonde hair.
