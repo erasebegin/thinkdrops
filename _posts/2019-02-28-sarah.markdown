@@ -2,7 +2,7 @@
 layout: post
 title:  "Sarah"
 date:   2019-02-28 
-preview: https://i811.photobucket.com/albums/zz39/EraseBegin/sarah-qrcode.png
+preview: https://i811.photobucket.com/albums/zz39/EraseBegin/sarah%20thumb.png
 ---
 
 ![sarah](https://i811.photobucket.com/albums/zz39/EraseBegin/this%20is%20sarah.png)
