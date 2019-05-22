@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "WFC logo"
+date:   2019-05-22
+previewe: https://i.ibb.co/F5SYSYs/wfc-logo-3-2x.png 
+---
+
+![WFC Logo](https://i.ibb.co/LxLgLgQ/wfc-logo-3-2x.png)
+
+A logo designed for the Wickham International School football team.
