@@ -2,7 +2,7 @@
 layout: post
 title:  "duk"
 date:   2019-02-28
-https://i.ibb.co/hgGGZhy/duk-woodland.png
+preview: https://i.ibb.co/hgGGZhy/duk-woodland.png
 ---
 
 ![duk1](https://i.ibb.co/Pr2293N/duk-woodland.png)
