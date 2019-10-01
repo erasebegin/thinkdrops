@@ -2,127 +2,208 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thinkdrops</title>
-    <description>a place to put stuff, that's all</description>
+    <description>a place to put stuff, that's all.</description>
     <link>http://localhost:4000/thinkdrops/</link>
     <atom:link href="http://localhost:4000/thinkdrops/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 15:35:44 +0800</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 15:35:44 +0800</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Tue, 01 Oct 2019 15:36:53 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Oct 2019 15:36:53 +0200</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Looky Lips</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Qn0vsC9/looky-lips.png&quot; alt=&quot;looky lips&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/10/01/looky-lips/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/10/01/looky-lips/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>飘在海边</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Yf317qW/image.png&quot; alt=&quot;飘啊飘啊&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/09/30/piao-zai-hai-bian/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/09/30/piao-zai-hai-bian/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ensnared</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/GT0bwCw/she-stares2.png&quot; alt=&quot;ensnared&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Sep 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/09/29/ensnared/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/09/29/ensnared/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Water Drop</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/z4PH4xK/water-drop-graphic-p2-A-1st-draft.png&quot; alt=&quot;water drop 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/m5fDcQ0/water-drop-graphic-p2-A-2nd-draft.png&quot; alt=&quot;water drop 2&quot; /&gt;
+First and second draft rejected due to obscene content.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/HYkHRdv/water-drop-graphic-p2-A-3rd-draft.png&quot; alt=&quot;water drop 3&quot; /&gt;
+Final Draft&lt;/p&gt;
+
+&lt;h3 id=&quot;a-logo-designed-for-the-class-of-p2-a-at-hangzhou-wickham-international-school&quot;&gt;A logo designed for the class of P2-A at Hangzhou Wickham International School&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/05/22/water-drop/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/05/22/water-drop/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Self-portrait</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/vwz3zFW/mai-faec1-2x.png&quot; alt=&quot;Self-portrait1&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/05/22/self-portrait/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/05/22/self-portrait/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WFC logo</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/LxLgLgQ/wfc-logo-3-2x.png&quot; alt=&quot;WFC Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A logo designed for the Wickham International School football team.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/05/22/lion-logo/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/05/22/lion-logo/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Necessary Products</title>
+        <description>&lt;h2 id=&quot;spleb&quot;&gt;SPLEB+&lt;/h2&gt;
+&lt;h3 id=&quot;microwave-hand-sanitiser&quot;&gt;Microwave Hand Sanitiser&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/c2fxpmS/SPLEB-2x.png&quot; alt=&quot;SPLEB+&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Voice activated&lt;/li&gt;
+  &lt;li&gt;Accepts a variety of appendages&lt;/li&gt;
+  &lt;li&gt;Kills 100% of bacteria and more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cooking-cap&quot;&gt;Cooking Cap&lt;/h2&gt;
+&lt;h3 id=&quot;multifunction-gastronomic-headpiece&quot;&gt;Multifunction Gastronomic Headpiece&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/BsfnBj8/Cooking-Cap-2x.png&quot; alt=&quot;Cooking Cap&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Can be worn while cooking:
+    &lt;ul&gt;
+      &lt;li&gt;carrots&lt;/li&gt;
+      &lt;li&gt;fishtails&lt;/li&gt;
+      &lt;li&gt;marmalade&lt;/li&gt;
+      &lt;li&gt;ancient cream&lt;/li&gt;
+      &lt;li&gt;and many more!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Peak rotates 360°&lt;/li&gt;
+  &lt;li&gt;Suitable for both day and night time use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;carnage-pro&quot;&gt;Carnage Pro&lt;/h2&gt;
+&lt;h3 id=&quot;motivational-bike-seat&quot;&gt;Motivational Bike Seat&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/5RwGfdM/Carnage-Pro-2x.png&quot; alt=&quot;Carnage Pro&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dynamic spike arrangement&lt;/li&gt;
+  &lt;li&gt;Military grade projectile system propels spikes into rider if speed falls below 10mph&lt;/li&gt;
+  &lt;li&gt;State of the art threatening AI can be customised to sound like your most feared person or creature&lt;/li&gt;
+  &lt;li&gt;Medically proven to cause discomfort&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/05/21/necessary-products/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/05/21/necessary-products/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sarah</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/q7h4ncT/this-is-sarah.png&quot; alt=&quot;sarah&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;this-is-sarah-she-is-tall-and-blonde-and-she-always-wears-a-green-dress&quot;&gt;This is Sarah. She is tall and blonde and she always wears a green dress.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/NFXMdf9/bananas.png&quot; alt=&quot;banana&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;her-favourite-fruit-is-bananas-she-eats-a-banana-every-day&quot;&gt;Her favourite fruit is bananas. She eats a banana every day.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/ZS30Yzh/studying.png&quot; alt=&quot;study&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sarah-usually-likes-to-study-in-the-living-room-because-there-is-a-big-sofa&quot;&gt;Sarah usually likes to study in the living room because there is a big sofa.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/DftNdP8/shopping-in-town.png&quot; alt=&quot;town&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sometimes-when-school-is-finished-sarah-likes-to-go-shopping-in-town-with-her-mother&quot;&gt;Sometimes when school is finished Sarah likes to go shopping in town with her mother.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/wg6JYM7/mum-says-no.png&quot; alt=&quot;not today&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;she-always-wants-to-go-to-the-toy-shop-but-her-mother-never-lets-her-go&quot;&gt;She always wants to go to the toy shop, but her mother never lets her go.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/jRgtYJh/dinosaur-toys.png&quot; alt=&quot;dinosaur toys&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;every-night-sarah-sleeps-with-her-dinosaur-toys-next-to-her-bed&quot;&gt;Every night Sarah sleeps with her dinosaur toys next to her bed.&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/jH46sX5/moon-and-stars.png&quot; alt=&quot;moon and star&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;goodnight-sarah&quot;&gt;Goodnight, Sarah.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i811.photobucket.com/albums/zz39/EraseBegin/sarah-qrcode.png&quot; alt=&quot;QRcode&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/02/28/sarah/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/28/sarah/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>duk</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Pr2293N/duk-woodland.png&quot; alt=&quot;duk1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/vZtYLLY/duk-watercolor.png&quot; alt=&quot;duk2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Bs16vC2/duk-paper2.png&quot; alt=&quot;duk3&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/thinkdrops/2019/02/28/duk/</link>
+        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/28/duk/</guid>
+        
+        
+      </item>
     
       <item>
         <title>绿流</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/3krWDp4/image.png&quot; alt=&quot;绿流&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/thinkdrops/2019/02/01/%E7%BB%BF%E6%B5%81/</link>
         <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/01/%E7%BB%BF%E6%B5%81/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>飘</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/ckdgTH1/piao-4x.png&quot; alt=&quot;飘&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/02/01/piao/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/02/01/piao/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>paper bird</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/L6WyD77/paper-bird.png&quot; alt=&quot;paper bird&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/25/paper-bird/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/25/paper-bird/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>bedroom</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/SrcVhyp/bedroom.png&quot; alt=&quot;bedroom&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/24/bedroom/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/24/bedroom/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>life drawing</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/tMRj8n1/red-flower.png&quot; alt=&quot;red flower&quot; /&gt;
-&lt;img src=&quot;https://i.ibb.co/BcPBdHt/dragon-fruit.png&quot; alt=&quot;dragon fruit&quot; /&gt;
-&lt;img src=&quot;https://i.ibb.co/SNGb8rK/flowers5.png&quot; alt=&quot;yellow flowers&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/23/life-drawing/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/23/life-drawing/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>ice-creams</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/Tcs5LNL/ice-creams.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 13 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/13/ice-creams/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/13/ice-creams/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>kitchen</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/GJtvzjK/kitchen-4x.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/12/kitchen/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/kitchen/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>city tour</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/hsLnnWC/in-town-stamp-card-4x.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/12/in-town/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/in-town/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>flowers</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/xGnsQ0P/flowers3.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/K2HTZhC/flowers4.png&quot; alt=&quot;Picture 2&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/12/flowers/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/flowers/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>3 girls</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/CMxtqcr/3-girls-01-01.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/thinkdrops/2019/01/12/3girls/</link>
-        <guid isPermaLink="true">http://localhost:4000/thinkdrops/2019/01/12/3girls/</guid>
         
         
       </item>
