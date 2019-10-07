@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mountain"
+date:   2019-10-07
+preview: https://i.ibb.co/tHYv0st/mountain.png
+---
+
+![mountain](https://i.ibb.co/cy2ZWFH/mountain.png)
