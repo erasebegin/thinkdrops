@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "me-ditate"
+date:   2019-10-29 
+preview: https://i.ibb.co/gVwQT3c/me-ditate2.jpg
+---
+
+![blue man sits cross-legged](https://i.ibb.co/3zWVN7P/me-ditate2.jpg)

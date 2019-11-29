@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "bene!"
+date:   2019-10-29 
+preview: https://i.ibb.co/RCwMw32/bene.png
+---
+
+![bene!](https://i.ibb.co/WcJdJkn/bene.png)
