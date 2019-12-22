@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Boid"
+date:   2019-12-22 
+preview: https://i.ibb.co/s9F1546/boid.jpg
+---
+
+![a bird the color of fire careens skyward](https://i.ibb.co/CKn9JyM/boid.jpg)
